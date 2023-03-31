@@ -1,6 +1,6 @@
 Name:		texlive-pgfmath-xfp
 Version:	59268
-Release:	1
+Release:	2
 Summary:	Define pgfmath functions using xfp
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfmath-xfp
