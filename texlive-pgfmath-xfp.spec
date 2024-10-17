@@ -3,7 +3,7 @@ Version:	59268
 Release:	2
 Summary:	Define pgfmath functions using xfp
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfmath-xfp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pgfmath-xfp
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfmath-xfp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfmath-xfp.doc.r%{version}.tar.xz
